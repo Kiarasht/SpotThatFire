@@ -4,7 +4,17 @@
             "outputFile": "/Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/33cc6e79fdd33175156b43da56e8d5aa/material-1.0.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/92a52ebc42a1a65ffad49c2fd82dc040/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                },
+                {
+                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/b1197cb6cb0f3872ab03b31a0cc2e336/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "752,874",
                         "endColumns": "121,133",
                         "endOffsets": "869,1003"
-                    }
-                },
-                {
-                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/951575d5ece8706109c3755947543696/appcompat-1.1.0/res/values-large-v4/values-large-v4.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,114,185,256,326,396,464,532,636",
-                        "endColumns": "58,70,70,69,69,67,67,103,115",
-                        "endOffsets": "109,180,251,321,391,459,527,631,747"
                     }
                 }
             ]

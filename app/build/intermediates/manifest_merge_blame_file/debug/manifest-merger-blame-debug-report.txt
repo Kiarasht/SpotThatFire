@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->/Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c7fdd854e743542aa8923a58c51d8537/core-1.1.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
 15-->/Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:7:9-43
@@ -47,15 +47,15 @@
 29        </activity>
 30
 31        <provider
-31-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f74103feffa725990ca2ced1b0f7611f/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+31-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/e3105e1440e7473363a98965ae7609f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
 32            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-32-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f74103feffa725990ca2ced1b0f7611f/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+32-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/e3105e1440e7473363a98965ae7609f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
 33            android:authorities="com.restart.spotthatfire.lifecycle-process"
-33-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f74103feffa725990ca2ced1b0f7611f/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+33-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/e3105e1440e7473363a98965ae7609f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
 34            android:exported="false"
-34-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f74103feffa725990ca2ced1b0f7611f/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+34-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/e3105e1440e7473363a98965ae7609f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
 35            android:multiprocess="true" />
-35-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f74103feffa725990ca2ced1b0f7611f/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+35-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/e3105e1440e7473363a98965ae7609f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
 36    </application>
 37
 38</manifest>
