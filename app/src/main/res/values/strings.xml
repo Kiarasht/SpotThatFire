@@ -3,4 +3,5 @@
     <string name="title_home">Map</string>
     <string name="title_dashboard">Report</string>
     <string name="title_notifications">Prepare</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
