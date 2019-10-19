@@ -8,11 +8,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
-import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.restart.spotthatfire.ui.dashboard.ReportFragment;
 import com.restart.spotthatfire.ui.home.MapsFragment;
+import com.restart.spotthatfire.ui.notifications.PrepareFragment;
 
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
 
@@ -25,21 +26,25 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         NavigationUI.setupWithNavController(navView, navController);
 
         navView.setOnNavigationItemSelectedListener(this);
+        navView.setSelectedItemId(R.id.navigation_report);
     }
 
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
-        switch (menuItem.getItemId()) {
-            case R.id.navigation_dashboard:
-                break;
+        final FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
 
+        switch (menuItem.getItemId()) {
+            case R.id.navigation_report:
+                ft.replace(R.id.nav_host_fragment, new ReportFragment(), ReportFragment.class.getSimpleName());
+                ft.commit();
+                break;
             case R.id.navigation_home:
-                final FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
                 ft.replace(R.id.nav_host_fragment, new MapsFragment(), MapsFragment.class.getSimpleName());
                 ft.commit();
                 break;
-
-            case R.id.navigation_notifications:
+            case R.id.navigation_prepare:
+                ft.replace(R.id.nav_host_fragment, new PrepareFragment(), PrepareFragment.class.getSimpleName());
+                ft.commit();
                 break;
         }
 

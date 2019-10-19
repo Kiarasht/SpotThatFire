@@ -1,4 +1,4 @@
-#Sat Oct 19 14:15:09 PDT 2019
+#Sat Oct 19 14:46:47 PDT 2019
 base.0=/Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/build/intermediates/transforms/dexMerger/debug/0
 path.1=classes.dex
 renamed.1=classes2.dex
