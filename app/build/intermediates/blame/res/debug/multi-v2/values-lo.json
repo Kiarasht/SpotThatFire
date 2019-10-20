@@ -4,6 +4,23 @@
             "outputFile": "/Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
             "map": [
                 {
+                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/9af81df7b8d516f318e1ad2c1dbaa65c/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3946",
+                        "endColumns": "190",
+                        "endOffsets": "4132"
+                    }
+                },
+                {
                     "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/8f2ef30d0be8b265bf9654837c9e51de/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2",
@@ -38,23 +55,6 @@
                     }
                 },
                 {
-                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/res/values-lo/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "190",
-                        "endOffsets": "437"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3946",
-                        "endColumns": "190",
-                        "endOffsets": "4132"
-                    }
-                },
-                {
                     "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/5a6997290dd5d917a1b02b41f183df38/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2,3",
@@ -72,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/res/values-lo/values.xml",
+                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/ac0e910da3ef99af2f33b282cbc7271f/res/values-lo/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

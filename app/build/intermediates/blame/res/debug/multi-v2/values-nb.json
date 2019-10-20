@@ -4,24 +4,7 @@
             "outputFile": "/Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
             "map": [
                 {
-                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/res/values-nb/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "188",
-                        "endOffsets": "435"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3903",
-                        "endColumns": "188",
-                        "endOffsets": "4087"
-                    }
-                },
-                {
-                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/res/values-nb/values.xml",
+                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/ac0e910da3ef99af2f33b282cbc7271f/res/values-nb/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -35,6 +18,23 @@
                         "startOffsets": "2737,2844,3035,3163,3274,3489,3621,3771,4092,4305,4414,4606,4736,4937,5143,5240,5332",
                         "endColumns": "106,190,127,110,214,131,149,131,212,108,191,129,200,205,96,91,106",
                         "endOffsets": "2839,3030,3158,3269,3484,3616,3766,3898,4300,4409,4601,4731,4932,5138,5235,5327,5434"
+                    }
+                },
+                {
+                    "source": "/Users/ktorki/.gradle/caches/transforms-2/files-2.1/9af81df7b8d516f318e1ad2c1dbaa65c/res/values-nb/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3903",
+                        "endColumns": "188",
+                        "endOffsets": "4087"
                     }
                 },
                 {
