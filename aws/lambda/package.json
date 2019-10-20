@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "exif-reader": "^1.0.3",
     "exifreader": "^2.8.3",
     "uuid": "^3.3.3"
   }
