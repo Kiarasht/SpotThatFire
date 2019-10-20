@@ -3,4 +3,20 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="magnitudeText">#ffffff</color>
+    <color name="magnitudeSafe">#8BC34A</color>
+    <color name="magnitudeWarning">#FFC107</color>
+    <color name="magnitudeDanger">#F44336</color>
+
+    <color name="dateText">#BDBDBD</color>
+
+    <color name="fillCircleDanger">#80EF5350</color>
+    <color name="strokeCircleDanger">#80B71C1C</color>
+
+    <color name="fillCircleWarning">#80FFCA28</color>
+    <color name="strokeCircleWarning">#80FF6F00</color>
+
+    <color name="fillCircleSafe">#809CCC65</color>
+    <color name="strokeCircleSafe">#8033691E</color>
 </resources>
