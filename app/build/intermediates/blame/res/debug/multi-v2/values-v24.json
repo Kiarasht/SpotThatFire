@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "C:\\Users\\Afroman808\\AndroidStudioProjects\\SpotThatFire\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a937113fa67b08674db5181472b075e8/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\Afroman808\\.gradle\\caches\\transforms-2\\files-2.1\\ed06895b065c5661e57eba699ebfc165\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/3687b8ce883ff5f69a9310b4fb324bd8/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\Afroman808\\.gradle\\caches\\transforms-2\\files-2.1\\b4d16df6ccaaf1f9ca7f443f16f2054c\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

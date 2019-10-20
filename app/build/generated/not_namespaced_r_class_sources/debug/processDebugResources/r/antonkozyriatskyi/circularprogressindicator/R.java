@@ -33,14 +33,14 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int butt = 0x7f080047;
-        public static final int clockwise = 0x7f080053;
-        public static final int counterclockwise = 0x7f080059;
-        public static final int linear = 0x7f080090;
-        public static final int no_gradient = 0x7f0800a4;
-        public static final int radial = 0x7f0800b6;
-        public static final int round = 0x7f0800bf;
-        public static final int sweep = 0x7f0800f0;
+        public static final int butt = 0x7f080049;
+        public static final int clockwise = 0x7f080055;
+        public static final int counterclockwise = 0x7f08005b;
+        public static final int linear = 0x7f080096;
+        public static final int no_gradient = 0x7f0800aa;
+        public static final int radial = 0x7f0800bc;
+        public static final int round = 0x7f0800ca;
+        public static final int sweep = 0x7f0800fb;
     }
     public static final class styleable {
         private styleable() {}

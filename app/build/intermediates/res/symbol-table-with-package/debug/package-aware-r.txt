@@ -1242,6 +1242,8 @@ id always
 id async
 id auto
 id barrier
+id beetlePrep
+id beetlePrepDesc
 id beginning
 id blocking
 id bottom
@@ -1268,7 +1270,9 @@ id custom
 id customPanel
 id dark
 id decor_content_parent
+id defPlanDesc
 id default_activity_button
+id defensePlan
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -1300,6 +1304,8 @@ id goTxt
 id gone
 id group_divider
 id groups
+id harden
+id hardenDesc
 id home
 id homeAsUp
 id hybrid
@@ -1358,6 +1364,11 @@ id progress_circular
 id progress_horizontal
 id radial
 id radio
+id radioButton
+id radioButton2
+id radioButton3
+id ready1Desc
+id ready1Header
 id readyDesc
 id readyLayout
 id readyProg
@@ -1454,6 +1465,9 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id view1
+id view2
+id view3
 id view_offset_helper
 id visible
 id wide
@@ -1534,9 +1548,11 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout fragment_dashboard
+layout fragment_go
 layout fragment_home
 layout fragment_notifications
 layout fragment_ready
+layout fragment_set
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action

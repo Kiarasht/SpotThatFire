@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "C:\\Users\\Afroman808\\AndroidStudioProjects\\SpotThatFire\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a937113fa67b08674db5181472b075e8/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "C:\\Users\\Afroman808\\.gradle\\caches\\transforms-2\\files-2.1\\4e9e3773763dfbb8641e48514be527c5\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,161",
+                        "endColumns": "105,116",
+                        "endOffsets": "156,273"
+                    },
+                    "to": {
+                        "startLines": "29,30",
+                        "startColumns": "4,4",
+                        "startOffsets": "2762,2868",
+                        "endColumns": "105,116",
+                        "endOffsets": "2863,2980"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Afroman808\\.gradle\\caches\\transforms-2\\files-2.1\\ed06895b065c5661e57eba699ebfc165\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d276ab18b27c82ea788ecf1ef82aeeb8/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "C:\\Users\\Afroman808\\.gradle\\caches\\transforms-2\\files-2.1\\14fd80ef2a783cd9248927ead888b604\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,23 +52,6 @@
                         "startOffsets": "3067",
                         "endColumns": "100",
                         "endOffsets": "3163"
-                    }
-                },
-                {
-                    "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7b2a81f7a12d22f91f190d1ce5fe81b1/res/values-en-rAU/values-en-rAU.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,161",
-                        "endColumns": "105,116",
-                        "endOffsets": "156,273"
-                    },
-                    "to": {
-                        "startLines": "29,30",
-                        "startColumns": "4,4",
-                        "startOffsets": "2762,2868",
-                        "endColumns": "105,116",
-                        "endOffsets": "2863,2980"
                     }
                 }
             ]
