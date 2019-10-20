@@ -91,7 +91,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView9"
+        app:layout_constraintTop_toBottomOf="@+id/getSetDescription"
         app:layout_constraintVertical_bias="0.0">
 
 
@@ -125,7 +125,7 @@
     </LinearLayout>
 
     <TextView
-        android:id="@+id/textView9"
+        android:id="@+id/getSetDescription"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Complete the checklists below to help prepare your family, home and property for a wildfire. Then track your progress with the preparedness meter"
