@@ -1,297 +1,297 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
-MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5a6997290dd5d917a1b02b41f183df38/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.material:material:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/b1197cb6cb0f3872ab03b31a0cc2e336/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/92a52ebc42a1a65ffad49c2fd82dc040/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/780a4259b68ba85f65207abe5e407a9d/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c0bf9d163f97249f2be4e42beae6c102/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8321d60694b1c65b5bbec209a43378c3/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:17:1-38:12
-MERGED from [com.github.antonKozyriatskyi:CircularProgressIndicator:1.3.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/679165de6e1813fdac0805863332dd9a/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f5263f17b4fdfa69c61cb96118f9db37/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/290501ee8cbbb8fd7e805a368e02da54/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5cd960e013d0ce405682cf5451bbf791/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f17587f185c143e8113f28b422824f21/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/d1d61d38b0cc6905695c4e4fddd56f2a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5558efada3aeb48109c362d0d680272c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/cf72c177b1372a75c4c0dcb1cd557f5a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/b8c04a148ae6f91179e7929fb737b921/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/1a5552bafc4c9c1eece2b48cbcda3d8b/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/32ef73d43b975b72a18b4f6a61649e40/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/24efa28f2ee4a5c269840b77ad3d06e7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/79c544a6b01738d4085621c5e3d0ff08/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/573057eb0ea2567a5f6197d88a09db76/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/eb631b32b49bae0a94f8e54d73e88ca4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/485d867057cf17a9e048e66cf0050108/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/3f0769fa2b1332cc257d2c12852a275f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/e00e0d7e17cbbe81f324132d80132ca7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/88c801fc4efa4e6041b9eeadb044ab79/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f2e96852cff2ac2107c99607cab093f5/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c5860136c9ec4ca5f21070001a8a75fc/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/499378bdc10b7a4f44fb43f35ae86ff6/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.media:media:1.0.0-rc01] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/54b5db5c240f67e7a16fe5efd9cd3443/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8f2ef30d0be8b265bf9654837c9e51de/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5d061651c4b0c73dd04448220055841e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/d722a79d677d097f9cdf88e34f635893/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/61f7070adfeebcf1be8b09ff98935279/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/17a8dfd7e2a8180ca6a1d55d03c22342/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/9b3d9d6a1547371173e632acf86c52e2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/01bb8763e48d46e994151e693c4f8d8f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c8da77a315dba4f6320e6135a1d3c3e8/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/20a7209633b46fa38f49d2cfe44590f4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/4e3ec05812e5c192267231a49ff60d34/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8e6ce1672e556d4bb51023e364bd94ef/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/ec03b51e0b1569f248ab4ea8e9fec24b/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/eaebe57d9308b513fd3ba49a2ce54f61/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/87d0f6cbec152763fb83739966bac624/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/64a9de17de228b580af0fe777eeaae70/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7b2a81f7a12d22f91f190d1ce5fe81b1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/57ec46cf285313c3e1e6fe266289229b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a937113fa67b08674db5181472b075e8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e489cb941c5a4e46943d30e1864e18e2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5f9078ba6b48c3464a7a226ecd3983d3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/61f1c3acffd3c4dc11406daafec1e830/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/9e1d443754d07f5f4d80265a36f6a97a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad294976f23e6bf0697d202f31e79660/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/0768a9a6c01f51397459fc8f0b62da25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.antonKozyriatskyi:CircularProgressIndicator:1.3.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/77ba6b651ee8d983f10afdcfc174d5ce/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/21bcb4bc022d6ef28cf9cba721f74fc0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7ff2587690d2574495881ff1e7135b9f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/679250eadbb857f89f786fa5c10fe023/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ece240ee82abf8ac8cdfdfaae778a722/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d4783ee50a6c323d20d3d416576ad1b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/b6ebf720d655dea987ae9b7f64f621b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/c60bc2cf8e3af94c82f7f006550f5109/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/3687b8ce883ff5f69a9310b4fb324bd8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/42deff08d55b0d72ce035f5585bba9a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/f2f391f61b601a8fbbd132815490bfd3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7827f4cb605a8aa2871081524aee5d20/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/9a1859428ebf4bc6e64690e0243471ff/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad7ea6826db4b79f15b85f49d3030811/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/39a918b448a9485eb22948c55818b794/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/b59ec0ff02211b8ec05dfdbd2baa5ffc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/37a7b9bbee29a0efc678021d5b7db601/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/2b73b417ef3b30a5ab762009b71c5e7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/775803d00d23ca22774b4a31024b7466/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a14b7f044ec88fd4b32cfb2942d5681e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ac8f1175dbb1c1c9efb2bea733ca4528/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d276ab18b27c82ea788ecf1ef82aeeb8/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/395b2a0e4ea75db1f56a6810962721e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e91dd0d9ad02afeb62b706d16be0cb04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/377e4ffa952cdf91ff1865161fa406ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/f58b0634ae65e598cd3c70d774808671/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e0f2ec8ccde498cd921bc60286749b7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7f8cf5f4002204f9512d0ad76925f222/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/80ff444a1df1d39d5cd77f709b52ae4c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d6526d559cf4ecbb41bdc9aeab122268/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/64e0aa434446d147006686f9a9f9bcf4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/50321264cf0939d5a3a81b5baf2f8fd5/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/f1ccfc546b4053f5a6d87d95ce7d8540/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/4e14bc173d0db296420fbb8348349107/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/6a9510efd5fce31fa01e372e849868d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/6e1e78f7fd8203d178e53ac9e06a6dd6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:4:5-39
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:6:5-81
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:6:22-78
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:7:5-79
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:8:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:24:5-67
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:8:22-64
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:8:22-64
 application
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:10:5-32:19
-MERGED from [com.google.android.material:material:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/b1197cb6cb0f3872ab03b31a0cc2e336/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/b1197cb6cb0f3872ab03b31a0cc2e336/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/780a4259b68ba85f65207abe5e407a9d/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/780a4259b68ba85f65207abe5e407a9d/AndroidManifest.xml:9:5-20
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8321d60694b1c65b5bbec209a43378c3/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8321d60694b1c65b5bbec209a43378c3/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f5263f17b4fdfa69c61cb96118f9db37/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f5263f17b4fdfa69c61cb96118f9db37/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8f2ef30d0be8b265bf9654837c9e51de/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8f2ef30d0be8b265bf9654837c9e51de/AndroidManifest.xml:24:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8e6ce1672e556d4bb51023e364bd94ef/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8e6ce1672e556d4bb51023e364bd94ef/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/57ec46cf285313c3e1e6fe266289229b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/57ec46cf285313c3e1e6fe266289229b/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e489cb941c5a4e46943d30e1864e18e2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e489cb941c5a4e46943d30e1864e18e2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/61f1c3acffd3c4dc11406daafec1e830/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/61f1c3acffd3c4dc11406daafec1e830/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/9e1d443754d07f5f4d80265a36f6a97a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/9e1d443754d07f5f4d80265a36f6a97a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad294976f23e6bf0697d202f31e79660/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad294976f23e6bf0697d202f31e79660/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d276ab18b27c82ea788ecf1ef82aeeb8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d276ab18b27c82ea788ecf1ef82aeeb8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/50321264cf0939d5a3a81b5baf2f8fd5/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/50321264cf0939d5a3a81b5baf2f8fd5/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8f2ef30d0be8b265bf9654837c9e51de/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d276ab18b27c82ea788ecf1ef82aeeb8/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:13:9-41
 	tools:ignore
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:17:9-60
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:17:9-60
 	android:roundIcon
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:16:9-40
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:19:9-21:55
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:19:9-21:55
 	android:value
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:21:13-52
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:21:13-52
 	android:name
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:20:13-58
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:20:13-58
 activity#com.restart.spotthatfire.MainActivity
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:23:9-31:20
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:23:9-31:20
 	android:label
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:25:13-45
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:25:13-45
 	android:name
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:24:13-41
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:24:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:26:13-30:29
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:27:17-69
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:29:17-77
+ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml:29:27-74
 uses-sdk
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5a6997290dd5d917a1b02b41f183df38/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5a6997290dd5d917a1b02b41f183df38/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/b1197cb6cb0f3872ab03b31a0cc2e336/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/b1197cb6cb0f3872ab03b31a0cc2e336/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/92a52ebc42a1a65ffad49c2fd82dc040/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/92a52ebc42a1a65ffad49c2fd82dc040/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/780a4259b68ba85f65207abe5e407a9d/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/780a4259b68ba85f65207abe5e407a9d/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c0bf9d163f97249f2be4e42beae6c102/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c0bf9d163f97249f2be4e42beae6c102/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8321d60694b1c65b5bbec209a43378c3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8321d60694b1c65b5bbec209a43378c3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:20:5-44
-MERGED from [com.github.antonKozyriatskyi:CircularProgressIndicator:1.3.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/679165de6e1813fdac0805863332dd9a/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.antonKozyriatskyi:CircularProgressIndicator:1.3.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/679165de6e1813fdac0805863332dd9a/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f5263f17b4fdfa69c61cb96118f9db37/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f5263f17b4fdfa69c61cb96118f9db37/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/290501ee8cbbb8fd7e805a368e02da54/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/290501ee8cbbb8fd7e805a368e02da54/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5cd960e013d0ce405682cf5451bbf791/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5cd960e013d0ce405682cf5451bbf791/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f17587f185c143e8113f28b422824f21/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f17587f185c143e8113f28b422824f21/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/d1d61d38b0cc6905695c4e4fddd56f2a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/d1d61d38b0cc6905695c4e4fddd56f2a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5558efada3aeb48109c362d0d680272c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5558efada3aeb48109c362d0d680272c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/cf72c177b1372a75c4c0dcb1cd557f5a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/cf72c177b1372a75c4c0dcb1cd557f5a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/b8c04a148ae6f91179e7929fb737b921/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/b8c04a148ae6f91179e7929fb737b921/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/1a5552bafc4c9c1eece2b48cbcda3d8b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/1a5552bafc4c9c1eece2b48cbcda3d8b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/32ef73d43b975b72a18b4f6a61649e40/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/32ef73d43b975b72a18b4f6a61649e40/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/24efa28f2ee4a5c269840b77ad3d06e7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/24efa28f2ee4a5c269840b77ad3d06e7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/79c544a6b01738d4085621c5e3d0ff08/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/79c544a6b01738d4085621c5e3d0ff08/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/573057eb0ea2567a5f6197d88a09db76/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/573057eb0ea2567a5f6197d88a09db76/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/eb631b32b49bae0a94f8e54d73e88ca4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/eb631b32b49bae0a94f8e54d73e88ca4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/485d867057cf17a9e048e66cf0050108/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/485d867057cf17a9e048e66cf0050108/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/3f0769fa2b1332cc257d2c12852a275f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/3f0769fa2b1332cc257d2c12852a275f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/e00e0d7e17cbbe81f324132d80132ca7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/e00e0d7e17cbbe81f324132d80132ca7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/88c801fc4efa4e6041b9eeadb044ab79/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/88c801fc4efa4e6041b9eeadb044ab79/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f2e96852cff2ac2107c99607cab093f5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f2e96852cff2ac2107c99607cab093f5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c5860136c9ec4ca5f21070001a8a75fc/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c5860136c9ec4ca5f21070001a8a75fc/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/499378bdc10b7a4f44fb43f35ae86ff6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/499378bdc10b7a4f44fb43f35ae86ff6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.media:media:1.0.0-rc01] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/54b5db5c240f67e7a16fe5efd9cd3443/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0-rc01] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/54b5db5c240f67e7a16fe5efd9cd3443/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8f2ef30d0be8b265bf9654837c9e51de/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8f2ef30d0be8b265bf9654837c9e51de/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5d061651c4b0c73dd04448220055841e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/5d061651c4b0c73dd04448220055841e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/d722a79d677d097f9cdf88e34f635893/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/d722a79d677d097f9cdf88e34f635893/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/61f7070adfeebcf1be8b09ff98935279/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/61f7070adfeebcf1be8b09ff98935279/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/17a8dfd7e2a8180ca6a1d55d03c22342/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/17a8dfd7e2a8180ca6a1d55d03c22342/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/9b3d9d6a1547371173e632acf86c52e2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/9b3d9d6a1547371173e632acf86c52e2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/01bb8763e48d46e994151e693c4f8d8f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/01bb8763e48d46e994151e693c4f8d8f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c8da77a315dba4f6320e6135a1d3c3e8/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/c8da77a315dba4f6320e6135a1d3c3e8/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/20a7209633b46fa38f49d2cfe44590f4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/20a7209633b46fa38f49d2cfe44590f4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/4e3ec05812e5c192267231a49ff60d34/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/4e3ec05812e5c192267231a49ff60d34/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8e6ce1672e556d4bb51023e364bd94ef/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/8e6ce1672e556d4bb51023e364bd94ef/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/ec03b51e0b1569f248ab4ea8e9fec24b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/ec03b51e0b1569f248ab4ea8e9fec24b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/eaebe57d9308b513fd3ba49a2ce54f61/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/eaebe57d9308b513fd3ba49a2ce54f61/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/87d0f6cbec152763fb83739966bac624/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/87d0f6cbec152763fb83739966bac624/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/64a9de17de228b580af0fe777eeaae70/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/64a9de17de228b580af0fe777eeaae70/AndroidManifest.xml:20:5-44
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7b2a81f7a12d22f91f190d1ce5fe81b1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7b2a81f7a12d22f91f190d1ce5fe81b1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/57ec46cf285313c3e1e6fe266289229b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/57ec46cf285313c3e1e6fe266289229b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a937113fa67b08674db5181472b075e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a937113fa67b08674db5181472b075e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e489cb941c5a4e46943d30e1864e18e2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e489cb941c5a4e46943d30e1864e18e2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5f9078ba6b48c3464a7a226ecd3983d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5f9078ba6b48c3464a7a226ecd3983d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/61f1c3acffd3c4dc11406daafec1e830/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/61f1c3acffd3c4dc11406daafec1e830/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/9e1d443754d07f5f4d80265a36f6a97a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/9e1d443754d07f5f4d80265a36f6a97a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad294976f23e6bf0697d202f31e79660/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad294976f23e6bf0697d202f31e79660/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/0768a9a6c01f51397459fc8f0b62da25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/0768a9a6c01f51397459fc8f0b62da25/AndroidManifest.xml:20:5-44
+MERGED from [com.github.antonKozyriatskyi:CircularProgressIndicator:1.3.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/77ba6b651ee8d983f10afdcfc174d5ce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.antonKozyriatskyi:CircularProgressIndicator:1.3.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/77ba6b651ee8d983f10afdcfc174d5ce/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/21bcb4bc022d6ef28cf9cba721f74fc0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/21bcb4bc022d6ef28cf9cba721f74fc0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7ff2587690d2574495881ff1e7135b9f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7ff2587690d2574495881ff1e7135b9f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/679250eadbb857f89f786fa5c10fe023/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/679250eadbb857f89f786fa5c10fe023/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ece240ee82abf8ac8cdfdfaae778a722/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ece240ee82abf8ac8cdfdfaae778a722/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d4783ee50a6c323d20d3d416576ad1b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d4783ee50a6c323d20d3d416576ad1b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/b6ebf720d655dea987ae9b7f64f621b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/b6ebf720d655dea987ae9b7f64f621b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/c60bc2cf8e3af94c82f7f006550f5109/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/c60bc2cf8e3af94c82f7f006550f5109/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/3687b8ce883ff5f69a9310b4fb324bd8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/3687b8ce883ff5f69a9310b4fb324bd8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/42deff08d55b0d72ce035f5585bba9a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/42deff08d55b0d72ce035f5585bba9a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/f2f391f61b601a8fbbd132815490bfd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/f2f391f61b601a8fbbd132815490bfd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7827f4cb605a8aa2871081524aee5d20/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7827f4cb605a8aa2871081524aee5d20/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/9a1859428ebf4bc6e64690e0243471ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/9a1859428ebf4bc6e64690e0243471ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad7ea6826db4b79f15b85f49d3030811/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad7ea6826db4b79f15b85f49d3030811/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/39a918b448a9485eb22948c55818b794/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/39a918b448a9485eb22948c55818b794/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/b59ec0ff02211b8ec05dfdbd2baa5ffc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/b59ec0ff02211b8ec05dfdbd2baa5ffc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/37a7b9bbee29a0efc678021d5b7db601/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/37a7b9bbee29a0efc678021d5b7db601/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/2b73b417ef3b30a5ab762009b71c5e7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/2b73b417ef3b30a5ab762009b71c5e7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/775803d00d23ca22774b4a31024b7466/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/775803d00d23ca22774b4a31024b7466/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a14b7f044ec88fd4b32cfb2942d5681e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a14b7f044ec88fd4b32cfb2942d5681e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ac8f1175dbb1c1c9efb2bea733ca4528/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ac8f1175dbb1c1c9efb2bea733ca4528/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d276ab18b27c82ea788ecf1ef82aeeb8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d276ab18b27c82ea788ecf1ef82aeeb8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/395b2a0e4ea75db1f56a6810962721e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/395b2a0e4ea75db1f56a6810962721e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e91dd0d9ad02afeb62b706d16be0cb04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e91dd0d9ad02afeb62b706d16be0cb04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/377e4ffa952cdf91ff1865161fa406ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/377e4ffa952cdf91ff1865161fa406ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/f58b0634ae65e598cd3c70d774808671/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/f58b0634ae65e598cd3c70d774808671/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e0f2ec8ccde498cd921bc60286749b7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/e0f2ec8ccde498cd921bc60286749b7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7f8cf5f4002204f9512d0ad76925f222/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/7f8cf5f4002204f9512d0ad76925f222/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/80ff444a1df1d39d5cd77f709b52ae4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/80ff444a1df1d39d5cd77f709b52ae4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d6526d559cf4ecbb41bdc9aeab122268/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d6526d559cf4ecbb41bdc9aeab122268/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/64e0aa434446d147006686f9a9f9bcf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/64e0aa434446d147006686f9a9f9bcf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/50321264cf0939d5a3a81b5baf2f8fd5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/50321264cf0939d5a3a81b5baf2f8fd5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/f1ccfc546b4053f5a6d87d95ce7d8540/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/f1ccfc546b4053f5a6d87d95ce7d8540/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/4e14bc173d0db296420fbb8348349107/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/4e14bc173d0db296420fbb8348349107/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/6a9510efd5fce31fa01e372e849868d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/6a9510efd5fce31fa01e372e849868d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/6e1e78f7fd8203d178e53ac9e06a6dd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/6e1e78f7fd8203d178e53ac9e06a6dd6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:23:5-79
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:23:22-76
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:23:22-76
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:26:5-28:35
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:27:9-41
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:28:9-32
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:28:9-32
 uses-library#org.apache.http.legacy
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:33:9-35:40
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:33:9-35:40
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:35:13-37
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/44a831b9f6564010d31d6e9fcfe54143/AndroidManifest.xml:34:13-50
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/49c4834c44d5e5e44876c1e4baa039e7/AndroidManifest.xml:34:13-50
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/dd2e28f39da7817763834b9510206449/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad294976f23e6bf0697d202f31e79660/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad294976f23e6bf0697d202f31e79660/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/63a1ce1154385ab87b16fa21269bb115/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/ad294976f23e6bf0697d202f31e79660/AndroidManifest.xml:24:13-58
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:23:9-27:43
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:25:13-69
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:25:13-69
 	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:27:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:26:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ktorki/.gradle/caches/transforms-2/files-2.1/f4c8667df76d68d61e4648c54083ca75/AndroidManifest.xml:24:13-79
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/larrychiem/.gradle/caches/transforms-2/files-2.1/5a2d0ebcbdf75f93e1f5b4e6521aeafd/AndroidManifest.xml:24:13-79
