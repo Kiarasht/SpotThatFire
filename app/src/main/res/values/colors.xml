@@ -19,4 +19,7 @@
 
     <color name="fillCircleSafe">#809CCC65</color>
     <color name="strokeCircleSafe">#8033691E</color>
+
+    <color name="userCircleColor">#8064B5F6</color>
+    <color name="strokeCircleUser">#801565C0</color>
 </resources>
