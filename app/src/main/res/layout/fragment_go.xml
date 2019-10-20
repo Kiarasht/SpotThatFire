@@ -1,6 +1,151 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-</LinearLayout>
+    <TextView
+        android:id="@+id/go1Header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="GO! EVACUATION GUIDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/go1Desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Give your household the best chance of surviving a wildfire by being ready to go and evacuating early. This includes preparing and being familiar with the following:"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/go1Header" />
+
+    <View
+        android:id="@+id/go_view1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/go1Desc" />
+
+    <LinearLayout
+        android:id="@+id/defensePlan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/go_view1">
+
+        <TextView
+            android:id="@+id/defPlanDesc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="80"
+            android:text="Know Your Pre-Evacuation Preparation Steps"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:id="@+id/go_radio_button3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="20" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/go_view2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/defensePlan" />
+
+    <LinearLayout
+        android:id="@+id/go_item2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/defensePlan">
+
+        <TextView
+            android:id="@+id/go_item_desc2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="80"
+            android:text="Know When to Evacuate"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:id="@+id/go_radio_button2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="20" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/go_item2"/>
+
+    <LinearLayout
+        android:id="@+id/go_item3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/go_item2">
+
+        <TextView
+            android:id="@+id/go_item3Desc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="80"
+            android:text="Know what to do if Trapped"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:id="@+id/go_radio_button1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="20" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/goGrayButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="168dp"
+        android:layout_marginBottom="222dp"
+        android:text="Complete"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

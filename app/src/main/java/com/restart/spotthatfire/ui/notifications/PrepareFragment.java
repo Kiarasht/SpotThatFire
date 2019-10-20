@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
+import com.restart.spotthatfire.MainActivity;
 import com.restart.spotthatfire.R;
 import com.restart.spotthatfire.ui.dashboard.ReportFragment;
 import com.restart.spotthatfire.ui.notifications.go.GoFragment;

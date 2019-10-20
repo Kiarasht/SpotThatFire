@@ -24,6 +24,7 @@ import com.restart.spotthatfire.ui.notifications.PrepareFragment;
 
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
 
+    public static boolean[] radioValues = new boolean[9];
     @SuppressLint("WrongThread")
     @Override
     protected void onCreate(Bundle savedInstanceState) {

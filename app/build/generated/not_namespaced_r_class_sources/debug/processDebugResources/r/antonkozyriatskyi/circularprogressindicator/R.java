@@ -12,40 +12,40 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int direction = 0x7f0300c1;
-        public static final int dotColor = 0x7f0300c7;
-        public static final int dotWidth = 0x7f0300c8;
-        public static final int drawDot = 0x7f0300c9;
-        public static final int enableProgressAnimation = 0x7f0300db;
-        public static final int fillBackground = 0x7f0300f6;
-        public static final int formattingPattern = 0x7f030105;
-        public static final int gradientEndColor = 0x7f030108;
-        public static final int gradientType = 0x7f030109;
-        public static final int progressBackgroundColor = 0x7f0301b6;
-        public static final int progressBackgroundStrokeWidth = 0x7f0301b7;
-        public static final int progressCap = 0x7f0301ba;
-        public static final int progressColor = 0x7f0301bb;
-        public static final int progressStrokeWidth = 0x7f0301bc;
-        public static final int startAngle = 0x7f0301e0;
-        public static final int textColor = 0x7f030227;
-        public static final int textSize = 0x7f03022d;
+        public static final int direction = 0x7f0300f1;
+        public static final int dotColor = 0x7f0300f7;
+        public static final int dotWidth = 0x7f0300f8;
+        public static final int drawDot = 0x7f0300f9;
+        public static final int enableProgressAnimation = 0x7f03010b;
+        public static final int fillBackground = 0x7f030126;
+        public static final int formattingPattern = 0x7f030135;
+        public static final int gradientEndColor = 0x7f030138;
+        public static final int gradientType = 0x7f030139;
+        public static final int progressBackgroundColor = 0x7f0301e9;
+        public static final int progressBackgroundStrokeWidth = 0x7f0301ea;
+        public static final int progressCap = 0x7f0301ed;
+        public static final int progressColor = 0x7f0301ee;
+        public static final int progressStrokeWidth = 0x7f0301ef;
+        public static final int startAngle = 0x7f030213;
+        public static final int textColor = 0x7f03025a;
+        public static final int textSize = 0x7f030260;
     }
     public static final class id {
         private id() {}
 
-        public static final int butt = 0x7f08004a;
-        public static final int clockwise = 0x7f080056;
-        public static final int counterclockwise = 0x7f08005c;
-        public static final int linear = 0x7f08009d;
-        public static final int no_gradient = 0x7f0800b1;
-        public static final int radial = 0x7f0800c3;
-        public static final int round = 0x7f0800d1;
-        public static final int sweep = 0x7f080109;
+        public static final int butt = 0x7f08004b;
+        public static final int clockwise = 0x7f080059;
+        public static final int counterclockwise = 0x7f080060;
+        public static final int linear = 0x7f0800bd;
+        public static final int no_gradient = 0x7f0800d2;
+        public static final int radial = 0x7f0800e8;
+        public static final int round = 0x7f0800f6;
+        public static final int sweep = 0x7f080132;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] CircularProgressIndicator = { 0x7f0300c1, 0x7f0300c7, 0x7f0300c8, 0x7f0300c9, 0x7f0300db, 0x7f0300f6, 0x7f030105, 0x7f030108, 0x7f030109, 0x7f0301b6, 0x7f0301b7, 0x7f0301ba, 0x7f0301bb, 0x7f0301bc, 0x7f0301e0, 0x7f030227, 0x7f03022d };
+        public static final int[] CircularProgressIndicator = { 0x7f0300f1, 0x7f0300f7, 0x7f0300f8, 0x7f0300f9, 0x7f03010b, 0x7f030126, 0x7f030135, 0x7f030138, 0x7f030139, 0x7f0301e9, 0x7f0301ea, 0x7f0301ed, 0x7f0301ee, 0x7f0301ef, 0x7f030213, 0x7f03025a, 0x7f030260 };
         public static final int CircularProgressIndicator_direction = 0;
         public static final int CircularProgressIndicator_dotColor = 1;
         public static final int CircularProgressIndicator_dotWidth = 2;

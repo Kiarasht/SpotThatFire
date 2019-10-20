@@ -1,7 +1,7 @@
-#Sat Oct 19 20:57:00 PDT 2019
-base.0=/Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/build/intermediates/transforms/dexMerger/debug/0
+#Sun Oct 20 12:56:09 PDT 2019
+base.0=/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/transforms/dexMerger/debug/1
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/ktorki/Desktop/Work/Hack/SpotThatFire/app/build/intermediates/transforms/dexMerger/debug/1
+base.1=/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/transforms/dexMerger/debug/0
