@@ -1768,6 +1768,10 @@
         "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/57ec46cf285313c3e1e6fe266289229b/res/layout/design_navigation_item_header.xml"
     },
     {
+        "merged": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/res/merged/debug/drawable_tinder.png.flat",
+        "source": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/res/drawable/tinder.png"
+    },
+    {
         "merged": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_close_circle.xml.flat",
         "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/57ec46cf285313c3e1e6fe266289229b/res/drawable/ic_mtrl_chip_close_circle.xml"
     },

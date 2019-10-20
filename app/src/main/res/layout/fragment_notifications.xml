@@ -6,77 +6,32 @@
     android:layout_height="match_parent"
     app:barrierDirection="top">
 
-    <LinearLayout
-        android:id="@+id/goLayout"
+    <ImageView
         android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/tinder">
+    </ImageView>
+
+    <TextView
+        android:id="@+id/getSetDescription"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:clickable="true"
-        android:clipChildren="true"
-        android:orientation="horizontal"
-        android:weightSum="100"
+        android:text="Complete the checklists below to help prepare your family, home and property for a wildfire. Then track your progress with the preparedness meter"
+        android:textColor="#FFFF00"
+        android:textSize="20sp"
+        android:background="#99000000"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/setLayout">
+        app:layout_constraintTop_toTopOf="parent" />
 
-        <TextView
-            android:id="@+id/goTxt"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="24"
-            android:text="GO"
-            android:textSize="30sp" />
-
-        <TextView
-            android:id="@+id/goDesc"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="61"
-            android:text="Know What to do when Wildfire Strikes"
-            android:textSize="20sp" />
-
-        <ProgressBar
-            android:id="@+id/goProg"
-            style="?android:attr/progressBarStyle"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="15" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/setLayout"
+    <View
+        android:id="@+id/notification_divider0"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:clickable="true"
-        android:clipChildren="true"
-        android:orientation="horizontal"
-        android:weightSum="100"
+        android:layout_height="1dp"
+        android:background="@android:color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/readyLayout">
-
-        <TextView
-            android:id="@+id/setTxt"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="24"
-            android:text="SET"
-            android:textSize="30sp" />
-
-        <TextView
-            android:id="@+id/setDesc"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="61"
-            android:text="Get Prepared and Create Your Wildfire Action Plan"
-            android:textSize="20sp" />
-
-        <ProgressBar
-            android:id="@+id/setProg"
-            style="?android:attr/progressBarStyle"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="15" />
-    </LinearLayout>
+        app:layout_constraintTop_toBottomOf="@+id/getSetDescription"/>
 
     <LinearLayout
         android:id="@+id/readyLayout"
@@ -87,11 +42,12 @@
         android:clipChildren="true"
         android:orientation="horizontal"
         android:weightSum="100"
+        android:background="#99000000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/getSetDescription"
+        app:layout_constraintTop_toBottomOf="@+id/notification_divider0"
         app:layout_constraintVertical_bias="0.0">
 
 
@@ -105,33 +61,123 @@
             android:layout_marginEnd="0dp"
             android:layout_weight="24"
             android:text="READY"
+            android:textColor="#FFFFFF"
             android:textSize="30sp" />
 
         <TextView
             android:id="@+id/readyDesc"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:layout_weight="61"
             android:text="Maintain Defensible Space and Harden Your Home"
+            android:textColor="#FFFFFF"
             android:textSize="20sp" />
 
-        <ProgressBar
-            android:id="@+id/readyProg"
-            style="?android:attr/progressBarStyle"
+        <RadioButton
+            android:id="@+id/readyConf"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="15" />
+            android:layout_weight="15"
+            android:checked="false"
+            android:clickable="false" />
 
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/getSetDescription"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Complete the checklists below to help prepare your family, home and property for a wildfire. Then track your progress with the preparedness meter"
-        android:textSize="20sp"
+    <View
+        android:id="@+id/notification_divider1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/readyLayout"/>
+
+    <LinearLayout
+        android:id="@+id/setLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:clipChildren="true"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:background="#99000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/notification_divider1">
+
+        <TextView
+            android:id="@+id/setTxt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="24"
+            android:text="SET"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/setDesc"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="61"
+            android:text="Get Prepared and Create Your Wildfire Action Plan"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <ProgressBar
+            android:id="@+id/setProg"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="15" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/notification_divider2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/setLayout"/>
+
+    <LinearLayout
+        android:id="@+id/goLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:clipChildren="true"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:background="#99000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/notification_divider2">
+
+        <TextView
+            android:id="@+id/goTxt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="24"
+            android:text="GO"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/goDesc"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="61"
+            android:text="Know What to do when Wildfire Strikes"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <ProgressBar
+            android:id="@+id/goProg"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="15" />
+    </LinearLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

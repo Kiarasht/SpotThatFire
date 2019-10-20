@@ -38,9 +38,9 @@ public final class R {
         public static final int counterclockwise = 0x7f080060;
         public static final int linear = 0x7f0800bd;
         public static final int no_gradient = 0x7f0800d2;
-        public static final int radial = 0x7f0800e5;
-        public static final int round = 0x7f0800f3;
-        public static final int sweep = 0x7f08012f;
+        public static final int radial = 0x7f0800e8;
+        public static final int round = 0x7f0800f6;
+        public static final int sweep = 0x7f080132;
     }
     public static final class styleable {
         private styleable() {}
