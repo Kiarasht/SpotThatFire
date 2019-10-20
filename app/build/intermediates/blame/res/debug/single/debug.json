@@ -80,6 +80,10 @@
         "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a937113fa67b08674db5181472b075e8/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/res/merged/debug/layout_fragment_go.xml.flat",
+        "source": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/src/main/res/layout/fragment_go.xml"
+    },
+    {
         "merged": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a937113fa67b08674db5181472b075e8/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
@@ -1616,12 +1620,12 @@
         "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a937113fa67b08674db5181472b075e8/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/a937113fa67b08674db5181472b075e8/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/larrychiem/.gradle/caches/transforms-2/files-2.1/d79cfc2fbfcfe2e81e0b4df082457d49/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/larrychiem/AndroidStudioProjects/SpotThatFire/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
