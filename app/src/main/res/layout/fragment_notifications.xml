@@ -74,7 +74,7 @@
             android:textSize="20sp" />
 
         <RadioButton
-            android:id="@+id/readyConf"
+            android:id="@+id/readyConf0"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="15"
@@ -123,12 +123,13 @@
             android:textColor="#FFFFFF"
             android:textSize="20sp" />
 
-        <ProgressBar
-            android:id="@+id/setProg"
-            style="?android:attr/progressBarStyle"
+        <RadioButton
+            android:id="@+id/readyConf1"
             android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="15" />
+            android:layout_height="match_parent"
+            android:layout_weight="15"
+            android:checked="false"
+            android:clickable="false" />
     </LinearLayout>
 
     <View
@@ -171,12 +172,13 @@
             android:textColor="#FFFFFF"
             android:textSize="20sp" />
 
-        <ProgressBar
-            android:id="@+id/goProg"
-            style="?android:attr/progressBarStyle"
+        <RadioButton
+            android:id="@+id/readyConf2"
             android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="15" />
+            android:layout_height="match_parent"
+            android:layout_weight="15"
+            android:checked="false"
+            android:clickable="false" />
     </LinearLayout>
 
 
