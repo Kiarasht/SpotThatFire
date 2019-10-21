@@ -36,11 +36,11 @@ public final class R {
         public static final int butt = 0x7f08004b;
         public static final int clockwise = 0x7f080059;
         public static final int counterclockwise = 0x7f080060;
-        public static final int linear = 0x7f0800bd;
-        public static final int no_gradient = 0x7f0800d2;
-        public static final int radial = 0x7f0800e8;
-        public static final int round = 0x7f0800f6;
-        public static final int sweep = 0x7f080132;
+        public static final int linear = 0x7f0800be;
+        public static final int no_gradient = 0x7f0800d3;
+        public static final int radial = 0x7f0800e9;
+        public static final int round = 0x7f0800f9;
+        public static final int sweep = 0x7f080134;
     }
     public static final class styleable {
         private styleable() {}

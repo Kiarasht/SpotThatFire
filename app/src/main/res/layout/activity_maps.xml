@@ -11,6 +11,25 @@
         android:layout_height="match_parent" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/layer_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"
+        app:backgroundTint="#FFFFFF"
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:elevation="16dp"
+        android:focusable="true"
+        android:visibility="visible"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:pressedTranslationZ="12dp"
+        app:srcCompat="@drawable/ic_layers" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/main_fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

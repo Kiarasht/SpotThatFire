@@ -853,6 +853,7 @@ color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
 color strokeCircleDanger
 color strokeCircleSafe
+color strokeCircleUser
 color strokeCircleWarning
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
@@ -862,6 +863,7 @@ color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
 color tooltip_background_dark
 color tooltip_background_light
+color userCircleColor
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -1213,14 +1215,17 @@ drawable ic_fire
 drawable ic_home_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_layers
 drawable ic_map
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_my_location
 drawable ic_notifications_black_24dp
+drawable ic_person
 drawable ic_photo
 drawable ic_test
+drawable ic_time_to_leave
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1390,7 +1395,6 @@ id go1Header
 id goDesc
 id goGrayButton
 id goLayout
-id goProg
 id goTxt
 id go_item2
 id go_item3
@@ -1417,6 +1421,7 @@ id icon_group
 id icon_only
 id ifRoom
 id image
+id imageView1
 id incandescent
 id info
 id invisible
@@ -1425,6 +1430,7 @@ id item1
 id item_touch_helper_previous_elevation
 id labeled
 id largeLabel
+id layer_fab
 id left
 id light
 id line1
@@ -1479,7 +1485,9 @@ id radioButton2
 id radioButton3
 id ready1Desc
 id ready1Header
-id readyConf
+id readyConf0
+id readyConf1
+id readyConf2
 id readyDesc
 id readyLayout
 id readyTxt
@@ -1512,7 +1520,6 @@ id select_dialog_listview
 id selected
 id setDesc
 id setLayout
-id setProg
 id setTxt
 id set_divider0
 id set_divider1
@@ -1563,6 +1570,8 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView1
+id textView2
 id text_home
 id text_input_password_toggle
 id textinput_counter
@@ -1682,6 +1691,7 @@ layout fragment_home
 layout fragment_notifications
 layout fragment_ready
 layout fragment_set
+layout infowindowlayout
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
@@ -1697,6 +1707,7 @@ layout support_simple_spinner_dropdown_item
 menu bottom_nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw filename
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

@@ -65,6 +65,11 @@
             android:name="org.apache.http.legacy"
             android:required="false" />
 
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.restart.spotthatfire.com.squareup.picasso"
+            android:exported="false" />
+
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
